@@ -1,0 +1,34 @@
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Services.Model.deps.json
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Services.Model.dll
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Services.Model.pdb
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Model.dll
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Shared.dll
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Model.pdb
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Shared.pdb
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.dll
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\refint\Taskmanagement.Services.Model.dll
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.pdb
+C:\Users\ASUS\source\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\ref\Taskmanagement.Services.Model.dll
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Services.Model.deps.json
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Services.Model.dll
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Services.Model.pdb
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Model.dll
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Shared.dll
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Model.pdb
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\bin\Debug\net6.0\Taskmanagement.Shared.pdb
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.csproj.AssemblyReference.cache
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.AssemblyInfoInputs.cache
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.AssemblyInfo.cs
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.csproj.CoreCompileInputs.cache
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.csproj.CopyComplete
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.dll
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\refint\Taskmanagement.Services.Model.dll
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\Taskmanagement.Services.Model.pdb
+E:\16th Semester\dotnet_projects\clean-architecture\repos\Taskmanagement-2\Solution1\src\Libraries\Infrastructure\Taskmanagement.Services.Model\obj\Debug\net6.0\ref\Taskmanagement.Services.Model.dll
