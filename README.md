@@ -2,7 +2,8 @@
 <h5>Here, I've used the clean code architecture concept to construct an Asp.Net Core project. 
 <br> Product and Customer are two entities in this project.
 <br> In this project, I used API to implement the CRUD activity.
-<br> To run this code properly, type this code in the Visual Studio Package Manager console setting Taskmanagement.Insrastructure as the default project.
+<br> To run this code properly, type this code in the Visual Studio Package Manager console setting Taskmanagement.Infrastructure as the default project.
+  <br>
   ```bash
   PM>update-database
   ```
