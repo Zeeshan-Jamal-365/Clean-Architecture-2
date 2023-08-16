@@ -1,4 +1,5 @@
 # Clean-Architecture-2
+<h5>Here, I have added a new table named "Customers" along with the "Product" table. </h5>
 <h1>What is Clean Architecture?</h1>
 <br>A software design called "clean architecture" enables us to maintain control over a whole application's code. 
 The code/logic, which is unlikely to change, is the clean architecture's primary objective. It must be written independently of any direct dependencies. 
