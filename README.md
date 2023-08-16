@@ -7,8 +7,8 @@ Additionally, it implies that we can entirely replace all of our external depend
 Here is the illustration of the clean architecture design:
 
 <p align="center">
-![Clean Architecture in Aspnet Core Web API](https://github.com/Zeeshan-jamal/Clean-Architecture-2/assets/64805436/00a76901-d462-4a8a-ade6-425d887880b1)
-</p>p>
+  <img width="200" src="https://github.com/Zeeshan-jamal/Clean-Architecture-2/assets/64805436/00a76901-d462-4a8a-ade6-425d887880b1">
+</p>
 
 
 <br>learn more about it from https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
