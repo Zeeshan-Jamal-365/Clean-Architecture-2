@@ -3,11 +3,10 @@
 <br> Product and Customer are two entities in this project.
 <br> In this project, I used API to implement the CRUD activity.
 <br> To run this code properly, type this code in the Visual Studio Package Manager console setting Taskmanagement.Infrastructure as the default project.
-  <br>
-```PowerShell
-  PM>update-database
-```  
-</h5>
+  ```powershell
+  update-database
+  ```  
+
 <h1>What is Clean Architecture?</h1>
 <br>A software design called "clean architecture" enables us to maintain control over a whole application's code. 
 The code/logic, which is unlikely to change, is the clean architecture's primary objective. It must be written independently of any direct dependencies. 
