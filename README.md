@@ -6,9 +6,9 @@ This means that the system's core shouldn't be affected if I wish to change my d
 Additionally, it implies that we can entirely replace all of our external dependencies.
 Here is the illustration of the clean architecture design:
 
-
+<p align="center">
 ![Clean Architecture in Aspnet Core Web API](https://github.com/Zeeshan-jamal/Clean-Architecture-2/assets/64805436/00a76901-d462-4a8a-ade6-425d887880b1)
-
+</p>p>
 
 
 <br>learn more about it from https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
