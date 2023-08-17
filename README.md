@@ -18,4 +18,4 @@ Here is the illustration of the clean architecture design:
 </p>
 
 
-<br>learn more about it from https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
+<br>learn more about it from https://juldhais.net/clean-architecture-in-asp-net-core-web-api-4e5ef0b96f99
