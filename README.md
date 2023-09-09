@@ -4,9 +4,9 @@
 <br> In this project, I used API to implement the CRUD activity.
 <br> To run this code properly, type this code in the Visual Studio Package Manager console setting Taskmanagement.Infrastructure as the default project.
 <br>
-   ```
-   PM>update-database
-   ```
+```   
+PM>update-database
+```   
    
 
 <h1>What is Clean Architecture?</h1>
